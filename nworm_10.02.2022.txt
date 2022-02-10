@@ -28,3 +28,6 @@ moneyhope81.duckdns.org:5057
 
 BitRAT c2
 hvnctoday.duckdns.org:7905
+
+Netwire c2's
+netwire2021.duckdns.org

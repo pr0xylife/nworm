@@ -1,8 +1,8 @@
 .zip > .iso > .vbs
 .zip > .iso > .exe
 
-.zip 2bb4298124543435996353e79aa974731072f43f8cc1ac17269b668ce5fac6ed
-.zip 4c68b39419eb4731be0c0475a4b63fd9cb86261bec9421131013ac20ea5f7b30
+.zip 2bb4298124543435996353e79aa974731072f43f8cc1ac17269b668ce5fac6ed (nw0rm)
+.zip 4c68b39419eb4731be0c0475a4b63fd9cb86261bec9421131013ac20ea5f7b30 (bitRAT)
 
 
 EXEC > 
@@ -25,3 +25,6 @@ http://54.235.58.2/3/
 c2's
 nyanmoj.duckdns.org:5057
 moneyhope81.duckdns.org:5057
+
+BitRAT c2
+hvnctoday.duckdns.org:7905

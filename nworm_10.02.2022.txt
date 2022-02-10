@@ -21,6 +21,8 @@ http://54.235.58.2/
 http://54.235.58.2/1/
 http://54.235.58.2/2/
 http://54.235.58.2/3/
+http://103.151.125.186/
+
 
 c2's
 nyanmoj.duckdns.org:5057
@@ -29,5 +31,5 @@ moneyhope81.duckdns.org:5057
 BitRAT c2
 hvnctoday.duckdns.org:7905
 
-Netwire c2's
+Netwire c2
 netwire2021.duckdns.org

